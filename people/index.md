@@ -16,24 +16,22 @@ description: pawsnet &rdquo; people
 =--
 
 +-- {.span4}
-[Dr. Arjuna Sathiaseelan][arjuna-w] [<i class="icon-envelope"> </i>][arjuna]
+Dr. Arjuna Sathiaseelan [<i class="icon-envelope"> </i>][arjuna]
 
 <img class="img-polaroid photo" src="/img/as.jpeg" />
 =--
 
 +-- {.span4}
-[Heidi Howard][heidi-w] [<i class="icon-envelope"> </i>][heidi]
+Heidi Howard [<i class="icon-envelope"> </i>][heidi]
 
 <img class="img-polaroid photo" src="/img/heidi.jpeg" />
 =--
-
 =--
 
 [jon-w]: http://www.cl.cam.ac.uk/~jac22/
 [jon]: mailto:jon.crowcroft@cl.cam.ac.uk
 [arjuna]: mailto:arjuna.sathiaseelan@cl.cam.ac.uk
 [heidi]: mailto:hh360@cl.cam.ac.uk
-=--
 
 # Nottingham
 
@@ -55,7 +53,7 @@ description: pawsnet &rdquo; people
 =--
 
 +-- {.span4}
-[Dr. Murray Goulden][murray-w] [<i class="icon-envelope"> </i>][murray]
+Dr. Murray Goulden [<i class="icon-envelope"> </i>][murray]
 
 <img class="img-polaroid photo" src="/img/murray.jpeg" />
 =--
@@ -63,7 +61,7 @@ description: pawsnet &rdquo; people
 
 +-- {.row-fluid}
 +-- {.span5}
-[Dr. Christian Greiffenhagen][cg-w] [<i class="icon-envelope"> </i>][cg]
+Dr. Christian Greiffenhagen [<i class="icon-envelope"> </i>][cg]
 
 <img class="img-polaroid photo" src="/img/christian.jpeg" />
 =--
