@@ -1081,3 +1081,4 @@ select,input[type="file"]{height:auto;line-height:normal;}
 .modal{background-color:#ffffff;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
 .modal-header{border-bottom:none;}
 .modal-footer{background-color:#fafdfa;}
+img.photo{height:120px;}

@@ -61,7 +61,7 @@
             <span class="icon-bar"></span>
           </button>
 
-          <a class="brand" href="/">NSG</a>
+          <a class="brand" href="/">PAWS</a>
 
           <div class="nav-collapse collapse">
             <ul class="nav">
@@ -69,10 +69,6 @@
               <a href="/">Home</a></li>
               <li {% if page.active == "people" %}class="active"{% endif %}>
               <a href="/people/">People</a></li>
-              <li {% if page.active == "projects" %}class="active"{% endif %}>
-              <a href="/projects/">Projects</a></li>
-              <li {% if page.active == "students" %}class="active"{% endif %}>
-              <a href="/students/">Students</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -84,7 +80,7 @@
       {{ content }}
 
       <hr />
-      <footer>
+      <footer class="pull-right">
           Powered by <a href="https://github.com/mojombo/jekyll">jekyll</a>.
       </footer>
     </div>
