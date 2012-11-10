@@ -69,6 +69,23 @@
               <a href="/">Home</a></li>
               <li {% if page.active == "people" %}class="active"{% endif %}>
               <a href="/people/">People</a></li>
+
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="/details/">
+                  Details<strong class="caret"> </strong>
+                </a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="details-menu">
+                  <li>
+                    <a tabindex="-1" href="/details/problem/">Problem</a>
+                  </li>
+                  <li>
+                    <a tabindex="-1" href="/details/approach/">Approach</a>
+                  </li>
+                  <li>
+                    <a tabindex="-1" href="/details/users/">Users</a>
+                  </li>
+                </ul>
+              </li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
