@@ -1082,4 +1082,5 @@ select,input[type="file"]{height:auto;line-height:normal;}
 .modal-header{border-bottom:none;}
 .modal-footer{background-color:#fafdfa;}
 img.photo{height:120px;}
+img.logo{height:80px;padding:0 1em;}
 div.center{margin:auto;}
