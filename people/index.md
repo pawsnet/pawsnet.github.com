@@ -62,7 +62,7 @@ description: pawsnet &rdquo; people
 =--
 
 +-- {.row-fluid}
-+-- {.span4}
++-- {.span5}
 [Dr. Christian Greiffenhagen][cg-w] [<i class="icon-envelope"> </i>][cg]
 
 <img class="img-polaroid photo" src="/img/christian.jpeg" />
