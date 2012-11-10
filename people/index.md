@@ -65,12 +65,21 @@ Dr. Christian Greiffenhagen [<i class="icon-envelope"> </i>][cg]
 
 <img class="img-polaroid photo" src="/img/christian.jpeg" />
 =--
+
++-- {.span4}
+[Dr. Milena Radenkovic][mvr-w] [<i class="icon-envelope"> </i>][mvr]
+
+<img class="img-polaroid photo" src="/img/mvr.jpeg" />
+=--
+
 =--
 
 [drm-w]: http://www.cs.nott.ac.uk/~drm/
 [drm]: mailto:derek.mcauley@nottingham.ac.uk
 [rmm-w]: http://www.cs.nott.ac.uk/~rmm/
 [rmm]: mailto:richard.mortier@nottingham.ac.uk
+[mvr-w]: http://www.cs.nott.ac.uk/~mvr/
+[mvr]: mailto:milena.radenkovic@nottingham.ac.uk
 [murray]: mailto:murray.goulden@nottingham.ac.uk
 [cg]: mailto:christian.greiffenhagen@nottingham.ac.uk
 
@@ -78,16 +87,14 @@ Dr. Christian Greiffenhagen [<i class="icon-envelope"> </i>][cg]
 
 +-- {.row-fluid}
 
-<img alt="BT" class="photo" src="/img/bt.jpeg" />
-
-<img alt="samknows" class="photo center" src="/img/samknows.jpeg" />
-
-<img alt="NCC" class="photo" src="/img/ncc.jpeg" />
-
-<img alt="horizon" class="photo" src="/img/horizon.jpeg" />
+<img alt="BT" class="logo" src="/img/bt.jpeg" />
+<img alt="samknows" class="logo" src="/img/samknows.jpeg" />
+<img alt="NCC" class="logo" src="/img/ncc.jpeg" />
 
 =--
 
 # Funders
 
-<img alt="EPSRC" class="photo" src="/img/epsrc.jpeg" />
+<img alt="EPSRC" class="logo" src="/img/epsrc.jpeg" />
+
+<img alt="horizon" class="logo" src="/img/horizon.jpeg" />
