@@ -87,7 +87,6 @@ Dr. Christian Greiffenhagen [<i class="icon-envelope"> </i>][cg]
 
 +-- {.row-fluid}
 
-<img alt="BT" class="logo" src="/img/bt.jpeg" />
 <img alt="samknows" class="logo" src="/img/samknows.jpeg" />
 <img alt="NCC" class="logo" src="/img/ncc.jpeg" />
 
@@ -96,5 +95,4 @@ Dr. Christian Greiffenhagen [<i class="icon-envelope"> </i>][cg]
 # Funders
 
 <img alt="EPSRC" class="logo" src="/img/epsrc.jpeg" />
-
 <img alt="horizon" class="logo" src="/img/horizon.jpeg" />
