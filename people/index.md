@@ -89,6 +89,7 @@ Dr. Christian Greiffenhagen [<i class="icon-envelope"> </i>][cg]
 
 <img alt="samknows" class="logo" src="/img/samknows.jpeg" />
 <img alt="NCC" class="logo" src="/img/ncc.jpeg" />
+<img alt="NCH" class="logo" src="/img/nch.jpeg" />
 
 =--
 
